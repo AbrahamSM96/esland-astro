@@ -1,5 +1,5 @@
 <div align="center">
-<img src="public/logo.svg" height="50px"/> 
+<img src="public/logo-home.svg" height="50px"/> 
 <h3>
  The ESLAND page reimagined
 </h3>
